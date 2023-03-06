@@ -24,3 +24,5 @@ The flow of the case study is as below:
 * Trying multiple Regression algorithms
 * Selecting the best Model
 * Deploying the best model in production
+
+The data has one file "ZomatoData.csv". This file contains 9551 restaurants details.
